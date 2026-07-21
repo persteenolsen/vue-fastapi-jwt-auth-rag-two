@@ -8,7 +8,7 @@ SPA architecture → authentication → API integration → RAG question answeri
 
 # FastAPI Backend
 
-- [`RAG API`](https://github.com/persteenolsen/fastapi-jwt-auth-rag) - The backend API using FastAPI, document retrieval, LLM integration, and JWT authentication.
+- [`RAG API`](https://github.com/persteenolsen/fastapi-jwt-auth-rag-two) - The backend API using FastAPI, document retrieval, LLM integration, and JWT authentication.
 
 # 🔐 Features
 
