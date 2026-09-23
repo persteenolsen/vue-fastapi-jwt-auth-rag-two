@@ -1,6 +1,6 @@
 # 🤖 vue-fastapi-jwt-auth-rag
 
-Last updated: 17-09-2026
+Last updated: 23-09-2026
 
 A Vue 3 frontend using Pinia for state management and JWT authentication, designed to interact with a FastAPI Retrieval-Augmented Generation (RAG) API.
 
